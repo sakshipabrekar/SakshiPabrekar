@@ -30,9 +30,9 @@ Passionate about building scalable web applications, RESTful APIs, and modern en
 
  🚀 Professional Summary
 
-Full Stack .NET Developer with **1.5+ years of experience** in designing, developing, and maintaining enterprise web applications using C#, ASP.NET Core, MVC, Web API, Entity Framework Core, LINQ, and SQL Server**.
+Full Stack .NET Developer with 1.5+ years of experience in designing, developing, and maintaining enterprise web applications using C#, ASP.NET Core, MVC, Web API, Entity Framework Core, LINQ, and SQL Server.
 
-Experienced in building **secure RESTful APIs, implementing **JWT Authentication & Authorization, designing **responsive user interfaces, and developing scalable applications following Clean Architecture** and **Object-Oriented Programming (OOP) principles.
+Experienced in building secure RESTful APIs, implementing JWT Authentication & Authorization, designing responsive user interfaces, and developing scalable applications following Clean Architecture and Object-Oriented Programming (OOP) principles.
 
 💎 Tech Stack
 
